@@ -40,5 +40,5 @@ You can clear the currently spawned skirmish via the button in the UI if you wan
 - More (and varied) secondary objectives.
 
 ### I have a problem...
-Please file [an issue using this link.] (https://github.com/SpartanD39/s39_firefightModules/issues/new) I cannot promise I will be able to fix every issue presented, but I will certainly try.
+Please file [an issue using this link.](https://github.com/SpartanD39/s39_firefightModules/issues/new) I cannot promise I will be able to fix every issue presented, but I will certainly try.
 
